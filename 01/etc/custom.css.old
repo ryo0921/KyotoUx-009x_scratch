@@ -1,0 +1,5 @@
+.reveal .slides {
+//  text-align: left;
+//  font-size: 150%; //160%
+////  width: 180% !important; //960px, 1366px
+}
